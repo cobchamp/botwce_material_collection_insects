@@ -23,6 +23,8 @@ Insects:
       coord: [-1959.48, 208.03, -523.76]
   - _Material<Hot-Footed Frog>:
       coord: [-1925.23, 204.93, -422.65]
+  - _Material<Winterwing Butterfly>:
+      coord: [-1913.07, 207.46, -375.41]
   - _Material<Warm Darner>:
       comment: Dynamic spawn
       coord: [-1551.5,-172.6146366427838]
@@ -37,11 +39,8 @@ Insects:
   - _Material<Smotherwing Butterfly>:
       comment: Dynamic spawn
       coord: [2199,-1643.0257932446266]
-  - BLSS (off tower?) to Lake Region
-  - _Material<Winterwing Butterfly>:
-      coord: [775.95, 188.79, 3718.09]
-  - _Material<Summerwing Butterfly>:
-      coord: [779.07, 188.33, 3729.36]
+  - BLSS to Lake Region / Faron:
+      notes: May need to go around Dueling Peaks...?
   - _Material<Rugged Rhino Beetle>:
       coord: [1521.11, 168.61, 3332.04]
   - _Material<Energetic Rhino Beetle>:
@@ -51,6 +50,9 @@ Insects:
   - _Material<Tireless Frog>:
       comment: Under rock
       coord: [1504.19, 166.48, 3286.55]
-  - _Material<Hightail Lizard>:
+  - All Insects:
+      icon: material
+      text: .item(Hightail Lizard)
+      split-type: UserDefined
       comment: Under rock
       coord: [1458.29, 169.92, 3288.60]

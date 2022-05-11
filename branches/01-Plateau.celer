@@ -14,13 +14,20 @@ Plateau:
     var-change:
       Arrow: 5
 - BLSS to bombs
+
 - _Shrine::JaBaij
+- _Material<Summerwing Butterfly>:
+    comment: Potential dynamic spawn
 
 - BLSS to mag
 - _Shrine::OmanAu
+- _Material<Summerwing Butterfly>:
+    comment: Potential dynamic spawn
 
 - BLSS and WB to stasis
 - _Shrine::OwaDaim
+- _Material<Summerwing Butterfly>:
+    comment: Potential dynamic spawn
 
 - Boulder + BTB to cryo:
     var-change:
