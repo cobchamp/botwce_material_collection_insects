@@ -3,11 +3,11 @@ Plateau:
 - Watch opening cutscene
 - _Material<Bladed Rhino Beetle>:
     coord: [-1028.03, 251.92, 1841.32]
-- _Equipment::Shield<Pot Lid>:
-    coord: [-952.34, 238.33, 1959.44]
 - _Equipment::Weapon<WoodCutter's Axe>:
     coord: [-920.93, 220.65, 1871.83]
     comment: for cutting grass
+- _Equipment::Shield<Pot Lid>:
+    coord: [-952.34, 238.33, 1959.44]
 - _Chest<Traveller's Bow>:
     coord: [-832.43, 222.00, 1963.11]
 - 5 Arrows:

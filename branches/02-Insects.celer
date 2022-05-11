@@ -1,41 +1,24 @@
 Insects:
-  - _Material<Winterwing Butterfly>:
-      coord: [775.95, 188.79, 3718.09]
-  - _Material<Summerwing Butterfly>:
-      coord: [779.07, 188.33, 3729.36]
-  - BLSS to Durian Korok
-  - _Material<Hearty Durian, 5>:
-      coord: [580.45, 221.27, 2667.71]
-  - _Material<Thunderwing Butterfly>:
-      coord: [832.37, 118.39, 3034.66]
-  - _Chest<5x Fire arrows>:
-      coord: [1048.44, 120.54, 3221.57]
-  - _Tod::Night
-  - _Material<Rugged Rhino Beetle>:
-      coord: [1521.11, 168.61, 3332.04]
-  - _Material<Energetic Rhino Beetle>:
-      coord: [1553.27, 179.88, 3335.27]
-  - _Material<Sunset Firefly>:
-      coord: [1507.43, 167.38, 3295.82]
-  - _Material<Tireless Frog>:
-      comment: Under rock
-      coord: [1504.19, 166.48, 3286.55]
-  - _Material<Hightail Lizard>:
-      comment: Under rock
-      coord: [1458.29, 169.92, 3288.60]
-  - WB up to cliff above tower
-  - _Material<Hearty Durian, 5>:
-      coord: [1362.57, 255.46, 3230.92]
-  - WB up to higher cliff
   - BLSS to Tabantha
   - _Material<Fairy>:
       coord: [-3531.93, 294.93, -758.80]
+      notes: Collect extra fairies for food
   - _Material<Hearty Lizard>:
       comment: Under rock beside Talus
       coord: [-3246.10, 292.48, -1085.40]
   - _Material<Electric Darner>:
       comment: Dynamic spawn
       coord: [-2711,-419.31627430910885]
+  - Collect Radishes:
+      movements:
+        - to: [-2667.06, 264.36, -407.57]
+        - to: [-2544.91, 256.37, -386.17]
+        - to: [-2526.82, 251.61, -347.29]
+        - to: [-2478.61, 261.58, -351.39]
+        - to: [-2388.13, 263.69, -395.85]
+  - _Material<Thunderwind Butterfly>:
+      comment: Dynamic spawn
+      coord: [-2372,-423.8885245901638]
   - _Material<Cold Darner>:
       coord: [-1959.48, 208.03, -523.76]
   - _Material<Hot-Footed Frog>:
@@ -51,9 +34,23 @@ Insects:
   - _Material<Fireproof Lizard>:
       comment: Under rock
       coord: [2642.92, 253.99, -1071.11]
-  - All Bugs:
-      text: .item(Smotherwing Butterfly)
-      icon: material
+  - _Material<Smotherwing Butterfly>:
       comment: Dynamic spawn
       coord: [2199,-1643.0257932446266]
-      split-type: UserDefined
+  - BLSS (off tower?) to Lake Region
+  - _Material<Winterwing Butterfly>:
+      coord: [775.95, 188.79, 3718.09]
+  - _Material<Summerwing Butterfly>:
+      coord: [779.07, 188.33, 3729.36]
+  - _Material<Rugged Rhino Beetle>:
+      coord: [1521.11, 168.61, 3332.04]
+  - _Material<Energetic Rhino Beetle>:
+      coord: [1553.27, 179.88, 3335.27]
+  - _Material<Sunset Firefly>:
+      coord: [1507.43, 167.38, 3295.82]
+  - _Material<Tireless Frog>:
+      comment: Under rock
+      coord: [1504.19, 166.48, 3286.55]
+  - _Material<Hightail Lizard>:
+      comment: Under rock
+      coord: [1458.29, 169.92, 3288.60]
