@@ -1,0 +1,16 @@
+---
+_project:
+  authors:
+    - CobChamp
+  description: ""
+  name: "Material Collection: Insects"
+  url: "https://github.com/cobchamp/botwce_material_collection_insects.git"
+  version: 0.1.0
+    
+_route:
+  - (?=) Objectives
+  - (==) Winterwing Butterfly, Summerwing Butterfly, Thunderwing Butterfly, Smotherwing Butterfly, Cold Darner, Warm Darner, Electric Darner, Restless Cricket, Bladed Rhino Beetle, Rugged Rhino Beetle, Energetic Rhino Beetle, Sunset Firefly, Hightail Lizard, Hearty Lizard, Fireproof Lizard, Hot-Footed Frog, Tireless Frog, Fairy
+  - Plateau:
+      - __use__ Plateau
+  - Insects:
+      - __use__ Insects
