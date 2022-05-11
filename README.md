@@ -1,1 +1,1 @@
-[View in Celer Web App](https://celer.itntpiston.app/#/gh/cobchamp/botwce_material_collection_insects/master)
+[View in Celer Web App](https://celer.itntpiston.app/#/gh/cobchamp/botwce_material_collection_insects)
